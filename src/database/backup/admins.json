@@ -1,0 +1,13 @@
+[{
+  "_id": "7ebd7658-122f-4116-a706-3fac349c8b63",
+  "password": "$2b$10$cJMJaHuLwl/xlFvI//uXZOgcdcPr2o9hvaLnjLItTa3sC3BTmKViK",
+  "sshKey": "e51832bc0b4d57f1346b2a3d1694b5d7eaf6cb646f14ce94b688510d67f1895dcbc2180502daf92021a7fcc7bd800a5db97a3ba92471da7d9511841c2869fbe2",
+  "ref": "31577180-9b66-4c26-9420-7ca8d87e62de",
+  "createdAt": {
+    "$date": "2023-04-11T16:11:40.706Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T16:11:40.706Z"
+  },
+  "__v": 0
+}]

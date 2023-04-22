@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6430549009717312a18b73fc"
+  },
+  "length": 1172841,
+  "chunkSize": 31457280,
+  "uploadDate": {
+    "$date": "2023-04-07T17:36:17.022Z"
+  },
+  "filename": "214d4f6189bf3fefaadec595781bf15f.mp4",
+  "contentType": "video/mp4",
+  "metadata": {
+    "ownerId": "31577180-9b66-4c26-9420-7ca8d87e62de"
+  }
+},{
+  "_id": {
+    "$oid": "64313a2a2fd48bdccc05c764"
+  },
+  "length": 13574474,
+  "chunkSize": 31457280,
+  "uploadDate": {
+    "$date": "2023-04-08T09:55:55.977Z"
+  },
+  "filename": "deba7c8edfb3481358e1d74a58265685.mp4",
+  "contentType": "video/mp4",
+  "metadata": {
+    "ownerId": "31577180-9b66-4c26-9420-7ca8d87e62de"
+  }
+},{
+  "_id": {
+    "$oid": "64313a642fd48bdccc05c768"
+  },
+  "length": 9742951,
+  "chunkSize": 31457280,
+  "uploadDate": {
+    "$date": "2023-04-08T09:56:52.852Z"
+  },
+  "filename": "ecdf78328aa58ee3b97d66792c23d8c8.mp4",
+  "contentType": "video/mp4",
+  "metadata": {
+    "ownerId": "31577180-9b66-4c26-9420-7ca8d87e62de"
+  }
+}]

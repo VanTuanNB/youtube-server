@@ -1,0 +1,43 @@
+[{
+  "_id": "8deac410-c918-493c-8dfa-cc3a65e5f062",
+  "title": "thuỵ sỹ",
+  "shortVideo": "6430549009717312a18b73fc",
+  "owner": "31577180-9b66-4c26-9420-7ca8d87e62de",
+  "likeCount": "",
+  "dislikeCount": "",
+  "createdAt": {
+    "$date": "2023-04-07T17:36:17.044Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T17:36:17.044Z"
+  },
+  "__v": 0
+},{
+  "_id": "dd4e841d-e943-4764-9400-f5130aee4d1e",
+  "title": "Rating Strangers Shots in AUSTRALIA 🇦🇺🏀 (fail compilation)",
+  "shortVideo": "64313a2a2fd48bdccc05c764",
+  "owner": "31577180-9b66-4c26-9420-7ca8d87e62de",
+  "likeCount": "",
+  "dislikeCount": "",
+  "createdAt": {
+    "$date": "2023-04-08T09:55:56.129Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-08T09:55:56.129Z"
+  },
+  "__v": 0
+},{
+  "_id": "1aa5dc9c-b412-4b0c-be65-ca53bb840357",
+  "title": "CĂNG ĐÉT vs Prokeepersg!!! GHÉT QUÁ",
+  "shortVideo": "64313a642fd48bdccc05c768",
+  "owner": "31577180-9b66-4c26-9420-7ca8d87e62de",
+  "likeCount": "",
+  "dislikeCount": "",
+  "createdAt": {
+    "$date": "2023-04-08T09:56:52.870Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-08T09:56:52.870Z"
+  },
+  "__v": 0
+}]

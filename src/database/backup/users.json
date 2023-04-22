@@ -1,0 +1,33 @@
+[{
+  "_id": "31577180-9b66-4c26-9420-7ca8d87e62de",
+  "googleId": "100811433007315717508",
+  "username": "Tuấn Cao",
+  "nickname": "tuancao",
+  "gmail": "vantuan26072002@gmail.com",
+  "avatarUrl": "https://lh3.googleusercontent.com/a/AGNmyxZXmtuh14i7GZHOwHv8JoNjr8r2cG26gIcH8PPb=s96-c",
+  "emailVerified": true,
+  "locale": "vi",
+  "createdAt": {
+    "$date": "2023-04-10T09:54:10.012Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T09:54:10.012Z"
+  },
+  "__v": 0
+},{
+  "_id": "da737d98-e6cd-4b34-8830-53ce7fcf74ba",
+  "googleId": "109650221648635076084",
+  "username": "Cao Van Tuan (FPL HCM)",
+  "nickname": "caovantuanfplhcm",
+  "gmail": "tuancvps19280@fpt.edu.vn",
+  "avatarUrl": "https://lh3.googleusercontent.com/a/AGNmyxbCjcbGssa4CvaerFDPP-JU3Rm3YfThbPT5S032=s96-c",
+  "emailVerified": true,
+  "locale": "en-GB",
+  "createdAt": {
+    "$date": "2023-04-10T10:09:39.506Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T10:09:39.506Z"
+  },
+  "__v": 0
+}]

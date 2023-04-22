@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <video controls loop>
+        <source src="" type="video/mp4" />
+    </video>
+    <a>download</a>
+    <script>
+        const video = document.querySelector('source[src]');
+        console.log(video);
+        fetch('http://localhost:5000/api/short/stream/8deac410-c918-493c-8dfa-cc3a65e5f062')
+            .then((response) => {
+                console.log(response);
+                return response.arrayBuffer()
+            })
+            .then(arr => {
+                console.log(arr);
+                const blob = new Blob([arr], { type: 'video/mp4' });
+                console.log(blob)
+                const file = new File([arr], 'mytest.mp4', { type: 'video/mp4' })
+                console.log(file);
+                const url = URL.createObjectURL(file);
+                console.log(`url file: ${url}`);
+                const linkTag = document.querySelector('a');
+                linkTag.href = url;
+                linkTag.download = file.name;
+                linkTag.textContent = `Download ${file.name}`;
+
+                const urlVideo = URL.createObjectURL(blob);
+                console.log(`url Video: ${urlVideo}`);
+                video.parentElement.setAttribute('src', urlVideo);
+
+                // console.log(arr)
+                // const blob = new Blob([arr]);
+                // const url = URL.createObjectURL(blob, { type: 'video/mp4;codecs="vp8,opus"' });
+                // console.log(url);
+                // video.setAttribute('src', url)
+            })
+            .catch((err) => console.log(err))
+    </script>
+</body>
+
+</html>
