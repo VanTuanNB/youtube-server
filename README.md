@@ -12,7 +12,7 @@ or
     yarn add
 ```
 
-## Config enviroment variables
+## Config environment variables
 
 -   Create .env file in the root directory
 
