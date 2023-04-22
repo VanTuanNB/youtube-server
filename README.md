@@ -22,7 +22,8 @@ or
     ORIGIN_ADMIN_DOMAIN = your_admin_domain
     DATABASE_URL = your_database_url(mongoDB compass)
     CLIENT_ID_GOOGLE = 163547023369-dq2t6l2846mnl4sqb1ijtuak6gdhpagb.apps.googleusercontent.com
-    CLIENT_SECRET_GOOGLE = http://localhost:5000/api/auth/google/callback
+    CLIENT_SECRET_GOOGLE = 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
+    CALLBACK_URL_GOOGLE = http://localhost:5000/api/auth/google/callback
     JWT_TOKEN_SECRET_KEY = your_secret_token
     ADMIN_PUBLIC_KEY = your_admin_public_key
 ```
